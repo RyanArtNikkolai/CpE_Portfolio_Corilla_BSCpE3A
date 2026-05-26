@@ -51,7 +51,6 @@ I am still developing my skills in programming and embedded systems, but I am mo
 ##  Featured Projects
 
 - 🔊 **Audio Amplifier Project** – Basic hardware circuit design using AC-powered amplifier system  
-- 📱 **SafeVoice Mobile Application** – Mobile app for reporting incidents (ongoing development)  
 - 🤖 **Arduino Automation System** – Simple sensor-based automation project  
 - 🌐 **Basic Web Development Projects** – Static websites and beginner-level frontend projects  
 
