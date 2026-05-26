@@ -6,7 +6,7 @@
 
 This project is a **Flying Gantry 3D Printer System** designed as part of our Computer Engineering activities. It focuses on improving 3D printer performance by using a flying gantry mechanism that makes movement smoother and more stable.
 
-The system is controlled using the **RP2040 microcontroller (Raspberry Pi Pico)**, which handles the stepper motor movements for accurate positioning during operation.
+The system is controlled using the **RP2040 microcontroller**, which handles the stepper motor movements for accurate positioning during operation.
 
 ---
 
