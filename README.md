@@ -53,6 +53,6 @@ I am still developing my skills in programming and embedded systems, but I am mo
 - 🔊 **Audio Amplifier Project** – Basic hardware circuit design using AC-powered amplifier system  
 - 🤖 **Arduino Automation System** – Simple sensor-based automation project  
 - 🌐 **Basic Web Development Projects** – Static websites and beginner-level frontend projects  
-
+- 🖨️ **Flying Gantry 3D Printer System using RP2040** – A prototype 3D printer system using a flying gantry mechanical design and RP2040 microcontroller for precise stepper motor control and improved printing stability
 ---
 
